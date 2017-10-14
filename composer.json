@@ -8,5 +8,6 @@
     "require": {
         "php": ">=5",
         "ext-curl": "*"
-    }
+    },
+    "minimum-stability": "dev"
 }
