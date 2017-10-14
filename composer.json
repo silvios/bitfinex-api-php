@@ -1,0 +1,12 @@
+{
+    "name": "silvio/bitfinex-api-php",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5",
+        "ext-curl": "*"
+    }
+}
