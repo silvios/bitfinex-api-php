@@ -1,5 +1,5 @@
 {
-    "name": "silvio/bitfinex-api-php",
+    "name": "silvios/bitfinex-api-php",
     "autoload": {
         "psr-4": {
             "": "src/"
